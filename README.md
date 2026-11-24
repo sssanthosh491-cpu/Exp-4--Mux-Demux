@@ -212,6 +212,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ## Output
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8e59ef4b-1c29-4ce1-988b-34ad7503263d" />
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9ad92232-f940-444b-9fec-8123d3d2ebe0" />
 
 ## Viva-Voce Questions
 
